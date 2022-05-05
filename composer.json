@@ -1,6 +1,7 @@
 {
     "name": "rlee/rlee.io",
     "type": "project",
+    "description": "rlee.io",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -13,5 +14,7 @@
             "email": "web.arli@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0.0"
+    }
 }
