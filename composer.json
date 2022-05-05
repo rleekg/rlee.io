@@ -2,7 +2,7 @@
     "name": "rlee/rlee.io",
     "type": "project",
     "description": "rlee.io",
-    "license": "MIT",
+    "license": "MIT Lice",
     "autoload": {
         "psr-4": {
             "Rlee\\RleeIO\\": "src/"
