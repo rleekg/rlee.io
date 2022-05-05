@@ -1,0 +1,17 @@
+{
+    "name": "rlee/rlee.io",
+    "type": "project",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Rlee\\RleeIO\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arli Vuglizov",
+            "email": "web.arli@gmail.com"
+        }
+    ],
+    "require": {}
+}
